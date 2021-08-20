@@ -398,6 +398,10 @@ footer p {
     background-color: var(--blue);
 
   }
+  
+  .content .arrow {
+    display: none;
+  }
 
   .featured img {
       border-radius: 20px;
